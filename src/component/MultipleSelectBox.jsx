@@ -129,3 +129,5 @@ class MultipleSelectBox extends React.Component {
     );
   }
 }
+
+export default MultipleSelectBox;
